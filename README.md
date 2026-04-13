@@ -57,19 +57,19 @@ O sistema gera automaticamente um relatório contendo:
 
 ### Cadastro de Peça Aprovada
 
-![Cadastro de peça aprovada](prints/cadastro.png)
+![Cadastro de peça aprovada](Prints/cadastro.png)
 
 ---
 
 ### Cadastro de Peça Reprovada
 
-![Cadastro de peça reprovada](prints/reprovacao.png)
+![Cadastro de peça reprovada](Prints/reprovacao.png)
 
 ---
 
 ### Relatório Final de Produtividade
 
-![Relatório final](prints/relatorio.png)
+![Relatório final](Prints/relatorio.png)
 
 ---
 
