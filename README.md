@@ -28,12 +28,12 @@ Caso algum critério não seja atendido, a peça será automaticamente **REPROVA
 
 O sistema possui as seguintes funcionalidades:
 
-1. Cadastrar nova peça
-2. Listar peças aprovadas e reprovadas
-3. Remover peça cadastrada
-4. Listar caixas fechadas
-5. Gerar relatório final de produtividade
-6. Validação automática de qualidade
+1. Cadastrar nova peça  
+2. Listar peças aprovadas e reprovadas  
+3. Remover peça cadastrada  
+4. Listar caixas fechadas  
+5. Gerar relatório final de produtividade  
+6. Validação automática de qualidade  
 7. Controle de peças por caixa (10 peças por caixa)
 
 ---
@@ -42,14 +42,14 @@ O sistema possui as seguintes funcionalidades:
 
 O sistema gera automaticamente um relatório contendo:
 
-- Total de peças cadastradas
-- Total de peças aprovadas
-- Total de peças reprovadas
-- Percentual de aprovação
-- Percentual de reprovação
-- Quantidade de caixas fechadas
-- Peças fora de caixa
-- Motivos de reprovação
+- Total de peças cadastradas  
+- Total de peças aprovadas  
+- Total de peças reprovadas  
+- Percentual de aprovação  
+- Percentual de reprovação  
+- Quantidade de caixas fechadas  
+- Peças fora de caixa  
+- Motivos de reprovação  
 
 ---
 
@@ -57,30 +57,30 @@ O sistema gera automaticamente um relatório contendo:
 
 ### Cadastro de Peça Aprovada
 
-![Cadastro de peça aprovada](prints/cadastro.png)
+![Cadastro de peça aprovada](Prints/cadastro.png)
 
 ---
 
 ### Cadastro de Peça Reprovada
 
-![Cadastro de peça reprovada](prints/reprovacao.png)
+![Cadastro de peça reprovada](Prints/reprovacao.png)
 
 ---
 
 ### Relatório Final de Produtividade
 
-![Relatório final](prints/relatorio.png)
+![Relatório final](Prints/relatorio.png)
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-- Python 3
-- Lógica de programação
-- Estruturas condicionais
-- Listas e dicionários
-- Funções
-- Controle de fluxo
+- Python 3  
+- Lógica de programação  
+- Estruturas condicionais  
+- Listas e dicionários  
+- Funções  
+- Controle de fluxo  
 
 ---
 
@@ -104,8 +104,8 @@ Instituição:
 
 ## ▶️ Como Executar o Projeto
 
-1. Abrir o terminal
-2. Navegar até a pasta do projeto
+1. Abrir o terminal  
+2. Navegar até a pasta do projeto  
 3. Executar o arquivo principal:
 
 ```bash
