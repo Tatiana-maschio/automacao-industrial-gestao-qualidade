@@ -214,3 +214,4 @@ def sistema_automacao():
 
 if __name__ == "__main__":
     sistema_automacao()
+    
